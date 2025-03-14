@@ -1,11 +1,7 @@
 # Anton Herashchenko
 
-## Senior Software Engineer | DevOps | SRE
-
+## Senior Software Engineer 
 ### Summary:
-
-6+ years of professional experience in the Information Technology
-industry
 
 Solid overall understanding of the IT industry, including software,
 hardware, and networking
