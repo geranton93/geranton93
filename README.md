@@ -41,7 +41,7 @@ Experience in:
 
 **Programming and Markup Languages:**
 
-JavaScript, TypeScript, SQL, XML, JSON, CQL, YAML, HTML, CSV.
+JavaScript, TypeScript, Go, Python, SQL, XML, JSON, CQL, YAML, HTML, CSV.
 
 **Technologies and Frameworks:**
 
