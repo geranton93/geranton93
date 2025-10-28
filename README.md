@@ -25,10 +25,7 @@
 </a>
 
 <!-- Streak -->
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img align="center" height="170"
-       src="https://streak-stats.demolab.com?user=geranton93&theme=github-dark-dimmed&hide_border=true" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=geranton93&theme=one-dark-pro&card_width=481" alt="GitHub Streak" /></a>
 
 <!-- Activity graph -->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
